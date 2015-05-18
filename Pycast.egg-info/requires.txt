@@ -1,0 +1,8 @@
+Click
+pyglet
+soundcloud
+
+[security]
+pyOpenSSL
+ndg-httpsclient
+pyasn1
